@@ -6,7 +6,7 @@ data class Day(
     @SerializedName("maxtemp_c")
     var MaxTempCelcius: Float,
     @SerializedName("mintemp_c")
-    var minTempCelsius: Float,
+    var MinTempCelsius: Float,
     @SerializedName("avgtemp_c")
     var AverageTempCelcius:Float
 
