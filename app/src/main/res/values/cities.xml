@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="saCities">
+        <item>São Paulo</item>
+        <item>Londres</item>
+        <item>Paris</item>
+        <item>Nova York</item>
+    </string-array>
+</resources>
